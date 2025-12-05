@@ -1,0 +1,38 @@
+# Sensitive credentials - NEVER commit these
+cookies.json
+supabase_config.json
+
+# Generated data files (can be regenerated from scraping or database)
+data/
+downloads/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Backup files
+*.backup
+*.bak
+
+# Example/test files
+Copy of *.pdf
+*.pdf
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+

@@ -1,0 +1,191 @@
+﻿NDC TRACKING MODULE (CUBA EXAMPLE): 
+
+
+Cuba's NDC submitted in February 2025, establishes six mitigation actions and 17 priority areas for adaptation in key sectors such as energy, transport, agriculture, water, and forestry, with quantified emission reduction targets. The country has implemented a Measurement, Reporting, and Verification (MRV) system to follow up on the mitigation measures included in its NDC. Current institutional arrangements define clear roles and responsibilities that ensure follow-up in the Energy, Industry (IPPU), Agriculture, LULUCF, and Waste sectors, with multi-stakeholder participation favoring a comprehensive approach.
+
+
+The State Plan for Confronting Climate Change serves as the primary tool for monitoring progress in NDC implementation. The NDC commitments are aligned with national development goals, and Cuba has incorporated a broader set of mitigation actions beyond those expressed in the NDC, prioritizing those with the greatest relevance and impact for their national design and implementation.
+
+
+The CBIT I Project marked an important step forward by launching the MRV system for Agriculture and LULUCF, supporting the creation of specific templates for monitoring mitigation measures in this sector. However, to date, no similar MRV subsystem has been developed for other priority sectors, thus limiting the scope and effectiveness of the comprehensive monitoring system.
+
+
+Although progress indicators for each mitigation action and priority areas for adaptation are periodically used to report on progress, they are not centralized in an integrated digital platform. Current monitoring relies heavily on manual processes, creating a high level of dependence on responsible individuals and limiting the system’s institutionalization. Insufficient technical, human, and financial resources across sectors affect the capacity to systematically monitor NDCs, and the templates developed during CBIT I still have gaps that hinder comprehensive and consistent coverage. As a result, data on the progress of NDC actions are not systematically and regularly updated or verified. Reports continue to be based on ad hoc input, negatively impacting on the accuracy, consistency, and usefulness of the reports presented in the BTR (Biennial Transparency Report).
+
+
+To overcome these limitations, it is essential to improve institutional arrangements, strengthen the technical and financial capacity of the sectors involved, and move toward automating the monitoring system through the development and implementation of an integrated digital platform. Likewise, the regularization and standardization of sectoral reporting must be promoted, improving the use and quality of indicators to ensure transparent, rigorous, and reliable monitoring.
+
+
+Finally, it is essential to align the MRV system with national development planning, thus facilitating the effective integration of climate goals into the National Development Plan (NDP). This will ensure that monitoring, reporting, and evaluation processes are sustainable, efficient, and allow for evidence-based adjustments to meet national and international climate commitments.
+
+
+
+
+ANOTHER NDC TRACKING MODULE:
+ The Country’s NDC outlines 47 mitigation and 13 adaptation actions across sectors, including energy, transport, waste, industry, agriculture, water, and forestry, with quantified emission reduction targets that are both conditional and unconditional. While the country has made progress in developing its national transparency framework, systems for tracking NDC implementation remain fragmented, under-resourced, and insufficiently institutionalized. These limitations reduce The Country’s ability to assess progress, identify gaps, and make evidence-based adjustments to its climate policy.
+The GEF-6 CBIT 1 project was foundational in operationalizing The Country’s MRV system and integrating climate tracking into national planning. Through the The Country Climate Ambitious Reporting Programme (CARP), CBIT 1 piloted an early version of the NDC tracking system. It supported the development of templates to monitor mitigation and adaptation measures, particularly in energy and transport, created a web-based Climate Data Hub hosted by the EPA, and collaborated with the NDPC to integrate five climate indicators into the 2018–2022 Medium-Term Development Framework.
+Despite these early gains, The Country’s BTR1 and the CBIT 1 Terminal Review indicate that tracking of NDC actions remains limited in scope and uptake. Although the EPA leads overall coordination, sector ministries lack the mandate, capacity, and technical tools to systematically monitor their NDC contributions. The templates developed under CBIT 1 have not been institutionalized across all sectors, and ministries are not required to report implementation status to the EPA. Consequently, data on the progress of NDC actions is not routinely updated or verified, and reporting remains heavily reliant on ad hoc inputs, undermining the accuracy and utility of BTR submissions.
+According to BTR1, while many NDC actions are implemented through sectoral or donor-funded programmes, there is no national mechanism to track outcomes or ensure alignment with NDC targets. This gap is particularly acute for adaptation actions implemented at the subnational level, where data collection and aggregation remain weak. The lack of harmonized indicators and a dedicated institutional framework hinders the timely and consistent tracking required under the ETF. Where tracking occurs, it often focuses on activity-level outputs rather than outcomes or impacts, limiting the ability to evaluate effectiveness.
+Institutional fragmentation remains a significant challenge. While the EPA is designated the national coordinating body for climate reporting, it lacks enforcement authority over sectoral agencies. NDPC, although central to national development monitoring, does not yet integrate NDC targets into its annual reporting. MDAs operate in silos, use separate reporting systems, and lack trained staff and tools for climate MRV. Coordination between EPA and NDPC, initiated under CBIT 1, has yet to be formalized.
+Subnational actors are largely excluded from NDC tracking. MMDAs, key to adaptation implementation, were only marginally involved in CBIT 1, leaving capacity gaps that require targeted follow-up. The First Updated NDC and BTR1 stress the urgent need to establish a national NDC tracking system with sectoral accountability. They recommend strengthening NDPC’s integration of climate targets, improving indicator use, regularizing sectoral reporting, and aligning MRV with national development planning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUPPORT NEEDED AND RECEIVED MODULE (CUBA EXAMPLE): 
+
+
+Cuba, as an island developing country vulnerable to climate change, requires international support to fulfill its national climate agenda and its commitments to the UNFCCC. However, the economic, commercial, and financial blockade imposed by the United States represents an obstacle to the country's access to international climate financing sources, negatively impacting not only Cuba's sustainable development, but also the effective implementation of mitigation and adaptation actions. A concrete example of this situation is the impossibility of accrediting a Direct Access Entity with the Green Climate Fund (GCF) due to the GCF's link to the World Bank, which prevents the direct transfer of funds to Cuban institutions.
+
+
+The MRV system for tracking support needs and received is currently in the design phase. While a proposed platform for monitoring climate action and support was developed with GCF support, there are still significant gaps. Specifically, the system does not yet allow for continuous, systematic accounting of information on the support received, and methodologies for tracking adaptation and mitigation financing are not fully developed. A major step forward, however, is the work done under the GCF project, which laid the groundwork for the design of this platform, setting the foundation for future progress.
+Despite these advances, Cuba currently lacks a comprehensive system for aggregating climate-related financial flows, and a structured methodology for recording financial support, technical assistance, or capacity development is still missing. Sector-specific support needs assessments are also absent, making it difficult to define a coherent, evidence-based strategy for resource mobilization.
+
+
+In terms of financing, Cuba received USD 59.6 million through 20 projects in the 2021-2022 period, with most of these funds allocated to adaptation (17 projects), one for mitigation, and one for cross-cutting issues. However, financial support for the implementation of the 2020 NDC remains limited, with a large portion of the required investments for mitigation, estimated at approximately USD 14 billion, still unmet. A substantial share of this financing is expected to come from concessional climate funds such as the Green Climate Fund, particularly for technology imports, and the country’s energy transition and forestry programs.
+
+
+Moving forward, the work to finalize the climate finance MRV system is essential to track disbursements effectively, enhance financial flow monitoring, and ensure alignment with NDC goals. As Cuba continues to improve its climate finance MRV, it will better integrate climate finance into the national strategy for achieving long-term climate resilience.
+
+
+ANOTHER SUPPORT NEEDED AND RECEIVED MODULE:
+
+
+Tracking support needed and received is essential to align national priorities with international support, improve accountability, and enhance access to climate finance. The Updated NDC (2021) estimates that US$15.5 billion is required between 2020 and 2030 to implement its conditional targets, with US$3.9 billion expected from domestic sources and US$11.6 billion from international finance, technology transfer, and capacity-building. However, The Country’s capacity to track, report, and coordinate these support flows remains limited, fragmented, and not fully institutionalized.
+Through the CARP established under CBIT 1, the EPA, in collaboration with MoF, NDPC, and sector ministries, developed basic templates and tools to track support received, particularly for selected mitigation and adaptation actions in the energy and transport sectors. A web-based Climate Data Hub was developed to host information on GHG inventory and MRV activities, including elements of support tracking. However, the system was not scaled across sectors, and the templates were not adopted as part of national procedures. CBIT 1 did not establish a dedicated or interoperable system to track financial, technical, or capacity-building support on NDC implementation, and institutional mandates for data collection remained weak.
+The CBIT 1 Terminal Review emphasized the need for a more comprehensive and institutionalized support tracking function. It noted that the lack of a national MRV system for support hindered the integration of climate finance tracking into public financial management and national development planning. Coordination between EPA and MoF was ad hoc, and existing efforts depended on donor-funded projects. In particular, data collected under CBIT 1 lacked disaggregation by sector, source, or type of support and were not linked to measurable outcomes. As a result, support-related reporting in BTR1 remained limited and primarily descriptive.
+BTR1 and the NID submitted in the 2024 document partial information on support from multilateral and bilateral partners, including GCF, GEF, the Adaptation Fund, and countries such as Germany, Denmark, the UK, and the US. While this demonstrates The Country’s ability to mobilize climate finance, the reports acknowledge critical gaps in tracking disbursements, effectiveness, and alignment with NDC targets. There is no system for aggregating climate-related financial flows from development partners, nor is there a methodology to capture in-kind support, technical assistance, or capacity-building in a structured manner. Support needs assessments are also lacking, particularly at the sector level, making it difficult to establish a coherent and evidence-based resource mobilization strategy.
+The NDC highlights these constraints and calls for developing a national climate finance MRV system to support transparency, planning, and accountability. Key barriers identified include weak knowledge of funding opportunities, poor coordination among institutions, limited tracking of expenditures, and the absence of standardized reporting mechanisms. The MoF, NDPC, and EPA operate separate systems with different data formats, reporting cycles, and priorities. Sector ministries and MMDAs are not systematically involved in tracking or reporting climate-related support, despite being responsible for implementing many NDC actions. Technical tools like CLIMFINTRACK currently focus on public expenditures and do not capture off-budget climate finance or support received by CSOs, the private sector, or academia.  As a result, The Country lacks a centralized, consistent, and policy-relevant view of support flows, which undermines its capacity to plan, budget, and report under the ETF.
+ 
+
+
+
+
+OTHER BASELINE INITIATIVES (CUBA EXAMPLE):
+
+OUTPUT FORMAT: Return as JSON with table_data array. Example structure:
+{
+  "table_data": [
+    {
+      "program_project": "Preparation of the First and Second Biennial Transparency Reports...",
+      "leading_entities": "CITMA; UNDP...",
+      "description": "Technical assistance...",
+      "duration": "2023 – 2025",
+      "value_usd": "$1,233,000",
+      "relation_to_ETF": "It ensures the development of BTRs..."
+    }
+  ]
+}
+
+Example table format (shows structure, but output as JSON):
+
+Program / Project
+	Leading Ministry and Supporting Entities
+	Brief description
+	Duration (start and end year)
+	Value (USD)
+	Relationship with ETF and the transparency system
+	Preparation of the First and Second Biennial Transparency Reports and the Fourth National Communication (1BTR + 2BTR & 4NC)
+	CITMA; UNDP (implementation); Center for Energy Information Management and Development (CUBAENERGIA) and GEF
+	Technical assistance and strengthening capacities for the preparation and submission of the Biennial Transparency Reports and the Fourth National Communication to the UNFCCC
+	2023 – 2025
+	$1,233,000
+	It ensures the development of BTRs in accordance with ETF, strengthening MRV systems and biennial reporting within the framework of the Paris Agreement
+	Capacity building to address climate change (CBIT-AFOLU)
+	Ministry of Agriculture (MINAG); Pasture and Forage Research Institute; and FAO
+	CBIT strengthened national technical capacities to measure, assess, and report on greenhouse gas (GHG) emissions and removals in the AFOLU sector. This system will serve as a recording and reporting tool to systematize climate change mitigation and adaptation actions in agriculture and will also be essential for reporting at the sectoral and national levels in the context of national plans, policies, and commitments on these issues.
+	2021-2025
+	$863,242
+	As a result, for the first time the country has an Information System on Climate Change in Agriculture (SICCA), functioning as a platform where various stakeholders collaborate to systematize information on climate change, monitor climate goals progress, and facilitate data-driven decision-making, complying with the requirements of the Enhanced Transparency Framework (ETF) of the Paris Agreement.
+ 
+	Initiative for Transparency in Climate Action (ICAT-Cuba)
+	CITMA; implemented by UNOPS, UNEP, CUBAENERGIA and ISPRA
+	ICAT 1: The objective was to develop a new baseline and mitigation scenario for the energy sector within the NDC framework, incorporating the identified mitigation actions. This involved designing a monitoring and reporting framework for the energy sector, taking into account international reporting requirements.
+ICAT 2: Focused on strengthening the capacities to meet the country’s reporting requirements through the BTR and updating the NDC.
+	2020-2024
+	$340,000
+	It contributes to ETF implementation, to develop the methodological bases that allow for the monitoring of NDCs and Biennial Transparency Reports (BTR) under the Paris Agreement.
+	REDD + Readiness Preparation in Cuba
+	CITMA; FAO and GCF
+	Completion and consolidation of REDD+ readiness activities to:
+* Develop a robust National Food Security Monitoring System (NFMS) with institutional frameworks for data generation and reporting, considering the roles of men and women.
+* Adopt a national interpretation of Cancun safeguards and requirements for a robust SIS.
+* Develop a Forest Reference Level (FREL/FRL) with methodological protocols for the collection of remote and terrestrial data.
+	2023 – ongoing
+	$525,000
+	Direct alignment with the technical components of the Enhanced Transparency Framework, such as MRV systems and Forest Reference Emission Levels (FRELs/FRLs)
+
+
+	GCF READINESS II
+	
+
+	Implemented in collaboration with the United Nations Development Programme (UNDP), CUBAENERGIA and the Ministry of Science, Technology and Environment (CITMA), it aims to strengthen national capacities to access and manage climate finance.
+	
+
+	$ 3 million
+
+
+UNFCCC REPORTING TABLE EXAMPLE (Table 2):
+
+OUTPUT FORMAT: Return as JSON with table_data array:
+
+{
+  "table_data": [
+    {"year": 2024, "report": "BTR1", "comment": "First Biennial Transparency Report submitted under ETF (https://unfccc.int/...)"},
+    {"year": 2023, "report": "NIR 2023", "comment": "National Inventory Report covering 2021 emissions (https://unfccc.int/...)"},
+    {"year": 2021, "report": "Second BUR", "comment": "Second Biennial Update Report (https://unfccc.int/...)"},
+    {"year": 2019, "report": "Third NC", "comment": "Third National Communication to the UNFCCC (https://unfccc.int/...)"},
+    {"year": 2017, "report": "First BUR", "comment": "First Biennial Update Report (https://unfccc.int/...)"},
+    {"year": 2020, "report": "Updated NDC", "comment": "Updated Nationally Determined Contribution (https://unfccc.int/...)"},
+    {"year": 2016, "report": "First NDC", "comment": "First Nationally Determined Contribution submitted (https://unfccc.int/...)"}
+  ],
+  "summary": "The country has submitted regular reporting documents including National Communications, Biennial Update Reports, and most recently its first Biennial Transparency Report. The country has also submitted National Inventory Reports and updated its NDC. All submissions are available through the UNFCCC official portals."
+}
+
+
+STAKEHOLDERS EXAMPLE (Table 1):
+
+1. Civil Society (CSOs and NGOs)
+   - Climate Action Network (CAN): Coordinates national CSO advocacy for climate policy, transparency, and NDC implementation tracking. Engages with government on ETF reporting.
+   - Environmental NGOs Coalition: Conducts awareness campaigns on climate change impacts and supports community-based adaptation initiatives. Monitors government climate commitments.
+   - Youth Climate Movement: Mobilizes young people for climate action and advocates for intergenerational equity in climate policy. Participates in national climate dialogues.
+
+2. Private sector
+   - National Business Council on Climate: Promotes corporate climate action and supports private sector emissions reporting. Develops sector-specific MRV guidelines.
+   - Renewable Energy Association: Advances renewable energy deployment and tracks private sector contributions to NDC mitigation targets. Supports clean energy transition.
+   - Green Finance Initiative: Mobilizes private climate finance and promotes sustainable investment practices. Tracks private sector climate finance flows.
+
+3. Academia and research organizations
+   - National Climate Research Institute: Conducts climate science research, vulnerability assessments, and emissions studies. Provides technical input for national reporting.
+   - University Climate Center: Trains students and professionals on climate change, MRV systems, and transparency frameworks. Supports capacity building initiatives.
+   - Meteorological Institute: Provides climate data, projections, and early warning systems. Supports adaptation planning and vulnerability assessments.
+
+4. Financial institutions / MDBs
+   - World Bank: Provides climate finance and technical assistance for climate projects. Supports MRV system development and capacity building.
+   - Green Climate Fund (GCF): Funds climate mitigation and adaptation projects. Supports national climate finance tracking and transparency.
+   - Regional Development Bank: Provides concessional climate finance for renewable energy and adaptation projects. Supports national climate priorities.
+
+5. International organizations
+   - UNDP: Implements climate projects and supports national capacity building for transparency and reporting. Provides technical assistance for ETF compliance.
+   - UNEP: Supports climate action planning, emissions monitoring, and transparency framework implementation. Provides guidance on MRV systems.
+   - ICAT: Provides technical guidance and tools for transparency and NDC tracking. Supports capacity building for ETF requirements.
+
+Non-government stakeholders for climate action are presented in Table 1.

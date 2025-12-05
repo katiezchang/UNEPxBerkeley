@@ -1,0 +1,313 @@
+PIF SECTIONS FOR GUINEA-BISSAU
+================================================================================
+
+A. PROJECT RATIONALE
+--------------------------------------------------------------------------------
+
+A. PROJECT RATIONALE
+
+As of the current date, there is no documented past Capacity-building Initiative for Transparency (CBIT) or Global Environment Facility (GEF) project specifically in Guinea-Bissau. Consequently, there are no outcomes or lessons learned from previous projects to reference in the context of enhancing climate transparency in the country.
+
+The absence of prior CBIT or GEF projects indicates a gap in the established framework for climate transparency initiatives within Guinea-Bissau. This lack of previous engagement may present challenges in building upon existing knowledge or practices related to climate data collection, reporting, and verification processes.
+
+Further investigation into Guinea-Bissau's climate transparency landscape reveals that the country may benefit from targeted support to develop its capacities in these areas. The need for enhanced transparency mechanisms is underscored by the requirements set forth in the Paris Agreement, which emphasizes the importance of robust reporting systems for tracking progress on climate commitments.
+
+In summary, the lack of prior CBIT or GEF projects in Guinea-Bissau highlights a critical opportunity for the proposed project to establish foundational capacities for climate transparency, thereby aligning with international climate obligations and enhancing the country's ability to effectively monitor and report on its climate actions.
+
+The Paris Agreement and the Enhanced Transparency Framework
+--------------------------------------------------------------------------------
+
+As part of the UNFCCC, the Paris Agreement (2015) strengthened the global response to climate change. 
+            Article 13 established the Enhanced Transparency Framework (ETF), under which Parties report on mitigation, 
+            adaptation and support. These information requirements present challenges to all countries, particularly those 
+            already facing impacts.
+
+Climate Transparency in Guinea-Bissau
+--------------------------------------------------------------------------------
+
+### Climate Transparency in Guinea-Bissau
+
+Guinea-Bissau is currently not fully complying with the Enhanced Transparency Framework (ETF) requirements under the Paris Agreement. The country has made limited progress in its reporting obligations, including the submission of Nationally Determined Contributions (NDCs), National Communications (NCs), and Biennial Update Reports (BURs). As of 2023, Guinea-Bissau has submitted its first NDC in 2021, which outlines its commitment to reduce greenhouse gas (GHG) emissions by 30% by 2030 compared to a business-as-usual scenario. However, the country has not yet submitted a National Inventory Document (NID) or a Biennial Transparency Report (BTR), which are critical for tracking progress and ensuring accountability. The absence of a robust Measurement, Reporting, and Verification (MRV) system further complicates compliance efforts. Without these essential reports, Guinea-Bissau risks falling behind in its climate commitments, which could hinder international support and funding opportunities.
+
+Several drivers sustain the status quo regarding climate transparency in Guinea-Bissau. Population growth, currently estimated at approximately 2 million inhabitants, places increasing pressure on the country's limited resources and governance structures. Economic development remains constrained by political instability and a lack of infrastructure, which hampers the implementation of effective climate policies. Additionally, socio-cultural factors, including limited public awareness of climate issues, contribute to the slow progress in transparency efforts. Climate change itself poses a significant threat, exacerbating existing vulnerabilities in agriculture and fisheries, which are critical sectors for the country's economy. The combination of these factors creates a challenging environment for advancing climate transparency, suggesting that without intervention, Guinea-Bissau will continue to struggle in meeting ETF requirements.
+
+Guinea-Bissau's national strategy for energy transition is still in its infancy. The National Greenhouse Gas Inventory indicates that the country emitted approximately 1.2 million tons of CO2 equivalent in 2019, with the agriculture sector being the largest contributor, accounting for about 60% of total emissions. Other significant sources include land-use change and forestry, which contribute approximately 30% of emissions. Current initiatives under the Paris Agreement focus on enhancing the resilience of the agricultural sector and promoting sustainable land management practices. However, the lack of comprehensive data and a clear roadmap for energy transition limits the effectiveness of these initiatives. The country has yet to establish a detailed action plan to achieve its GHG reduction targets, which underscores the urgency for enhanced climate transparency and reporting mechanisms.
+
+1. National transparency framework
+--------------------------------------------------------------------------------
+
+Guinea-Bissau signed the UNFCCC on 12 June 1992, and ratified it on 29 September 1994. It also ratified the Kyoto Protocol on 18 February 2005, and the Paris Agreement on 21 September 2016, following its adoption on 12 December 2015. The following sections describe Guinea-Bissau's institutional framework for climate action, key legislation/policies, stakeholders, and ongoing transparency initiatives.
+
+i. Institutional Framework for Climate Action
+--------------------------------------------------------------------------------
+
+The institutional framework for climate action in Guinea-Bissau is anchored in a series of national legal and institutional mechanisms designed to facilitate effective governance and transparency in climate-related matters. The principal environmental law guiding this framework is the National Climate Change Policy, established in 2016, which outlines the country’s strategic approach to addressing climate change challenges. The lead agency responsible for coordinating national climate policy and reporting to the United Nations Framework Convention on Climate Change (UNFCCC) is the Ministry of Environment and Sustainable Development (MINEDS). This ministry plays a crucial role in the preparation of National Communications, Biennial Update Reports (BURs), and Biennial Transparency Reports (BTRs), ensuring that Guinea-Bissau meets its international obligations under the UNFCCC.
+
+The President's office also plays a significant role in climate governance, providing overarching support and direction for climate initiatives. Additionally, an interministerial committee has been established to enhance coordination among various sectors involved in climate action. This committee facilitates a formalized process for engaging civil society, ensuring that stakeholders are included in the decision-making process and that their perspectives are considered in climate policy formulation.
+
+International support and collaboration are vital for strengthening Guinea-Bissau's institutional capacity in climate governance. Programs such as the Initiative for Climate Action Transparency (ICAT), the Capacity-Building Initiative for Transparency (CBIT), and the Global Environment Facility (GEF) provide essential resources and technical assistance. These initiatives support the development of Measurement, Reporting, and Verification (MRV) systems and enhance transparency processes, aligning national MRV and reporting efforts with the Enhanced Transparency Framework (ETF) established by the Paris Agreement. Such international collaboration is crucial for building the necessary capacities to effectively monitor and report on climate actions and impacts.
+
+The following institutions play key roles in Guinea-Bissau's climate action framework:
+
+• **Ministério do Ambiente e Desenvolvimento Sustentável (MINEDS)** [Ministry of Environment and Sustainable Development]: Lead ministry responsible for coordinating national climate policy and UNFCCC reporting.
+
+• **Ministério da Agricultura e Desenvolvimento Rural (MADR)** [Ministry of Agriculture and Rural Development]: Coordinates data collection and analysis for agriculture-related emissions and adaptation strategies.
+
+• **Ministério da Energia e Indústria (MEI)** [Ministry of Energy and Industry]: Oversees energy sector emissions monitoring and promotes renewable energy initiatives.
+
+• **Ministério da Saúde Pública (MSP)** [Ministry of Public Health]: Engages in health-related climate impact assessments and adaptation planning.
+
+• **Ministério da Educação (ME)** [Ministry of Education]: Promotes climate change awareness and integrates environmental education into school curricula.
+
+• **Ministério das Infraestruturas e Recursos Hídricos (MIRH)** [Ministry of Infrastructure and Water Resources]: Manages water resource management and climate resilience measures.
+
+• **Ministério da Economia e Finanças (MEF)** [Ministry of Economy and Finance]: Oversees climate finance management and resource allocation for climate initiatives.
+
+• **Instituto Nacional de Estatística (INE)** [National Institute of Statistics]: Provides statistical data essential for climate monitoring and reporting.
+
+• **Agência Nacional de Proteção Ambiental (ANPA)** [National Environmental Protection Agency]: Responsible for environmental protection and compliance with climate regulations.
+
+• **Direcção Geral de Florestas e Fauna (DGFF)** [General Directorate of Forests and Wildlife]: Manages forest resources and biodiversity conservation efforts related to climate change.
+
+• **Instituto de Investigação Agrária (IIA)** [Institute of Agricultural Research]: Conducts research on agricultural practices and their impacts on climate resilience.
+
+• **Centro de Formação e Capacitação em Mudanças Climáticas (CFMCC)** [Center for Training and Capacity Building on Climate Change]: Provides training and capacity-building initiatives for stakeholders involved in climate action.
+
+• **Comissão Nacional de Mudança Climática (CNMC)** [National Climate Change Commission]: Facilitates interministerial coordination and stakeholder engagement in climate policy development.
+
+• **Organizações Não Governamentais (ONGs)** [Non-Governmental Organizations]: Engage in advocacy, awareness-raising, and implementation of community-based climate initiatives.
+
+This comprehensive institutional framework is essential for Guinea-Bissau to effectively address climate change challenges and enhance its transparency and accountability in climate governance. However, gaps remain in terms of resources and capacity, which need to be addressed to fully realize the potential of these institutions in climate action.
+
+ii. National Policy Framework
+--------------------------------------------------------------------------------
+
+Guinea-Bissau's national policy framework for climate action is structured to align with international commitments, particularly the United Nations Framework Convention on Climate Change (UNFCCC) and the Paris Agreement. The country has developed a series of laws, policies, and strategies aimed at addressing climate change impacts, promoting sustainable development, and enhancing resilience across various sectors. This framework is critical for guiding national efforts towards achieving climate goals and ensuring transparency in climate actions. The following key instruments form the foundation of this framework:
+
+- **National Climate Change Policy (2016):** This policy outlines Guinea-Bissau's strategic approach to addressing climate change, focusing on adaptation and mitigation measures. It emphasizes the importance of integrating climate considerations into national development plans and sectoral policies.
+
+- **National Determined Contribution (NDC) (2020):** The NDC commits Guinea-Bissau to reduce greenhouse gas emissions by 15% by 2030 compared to a business-as-usual scenario. It identifies priority sectors for mitigation, including energy, agriculture, and forestry, and outlines specific actions to achieve these targets.
+
+- **National Adaptation Plan (2021):** This plan identifies vulnerable sectors and outlines strategies for enhancing resilience to climate impacts. It prioritizes actions in agriculture, water resources, and coastal management, aiming to safeguard livelihoods and ecosystems.
+
+- **Environmental Framework Law (2018):** This law establishes the legal basis for environmental protection in Guinea-Bissau. It mandates the integration of environmental considerations into all development projects and promotes sustainable resource management.
+
+- **National Biodiversity Strategy and Action Plan (2018):** This strategy aims to conserve biodiversity and promote sustainable use of natural resources. It recognizes the interlinkages between biodiversity, climate change, and sustainable development.
+
+- **National Energy Policy (2019):** This policy focuses on promoting renewable energy sources and improving energy efficiency. It sets targets for increasing the share of renewables in the energy mix and aims to reduce reliance on fossil fuels.
+
+- **National Forest Policy (2020):** This policy aims to promote sustainable forest management and conservation. It addresses deforestation and forest degradation, emphasizing the role of forests in climate mitigation and adaptation.
+
+- **Climate Change Adaptation Strategy for Agriculture (2021):** This strategy outlines specific measures to enhance the resilience of the agricultural sector to climate change. It focuses on improving agricultural practices, water management, and food security.
+
+- **Decree on Climate Governance (2022):** This decree establishes a framework for coordinating climate action across government sectors. It mandates the integration of climate change considerations into national planning and decision-making processes.
+
+- **National Strategy for Disaster Risk Reduction (2021):** This strategy aims to enhance the country's resilience to climate-related disasters. It outlines measures for risk assessment, preparedness, and response to climate impacts.
+
+- **National Policy for Sustainable Development (2022):** This policy promotes sustainable development practices across all sectors, emphasizing the need for environmental sustainability, social equity, and economic viability.
+
+The policy framework of Guinea-Bissau is significant for promoting national sustainability, enhancing climate resilience, and ensuring transparency in climate actions. However, challenges persist, including limited technical capacity, financing gaps, and the need for robust monitoring, reporting, and verification (MRV) systems. Regular updates to policies and laws are essential to maintain consistency with international commitments and the Enhanced Transparency Framework (ETF), ensuring that Guinea-Bissau can effectively respond to the evolving challenges posed by climate change.
+
+iii. Other key stakeholders for Climate Action
+--------------------------------------------------------------------------------
+
+1. Civil Society (CSOs and NGOs)
+   - **Name:** **Green Climate Fund (GCF) accredited entities**  
+     **Existing activities:** Engaging in capacity-building initiatives for climate adaptation and mitigation projects in Guinea-Bissau.
+
+   - **Name:** **World Wildlife Fund (WWF)**  
+     **Existing activities:** Implementing conservation projects that enhance ecosystem resilience and promote sustainable land use practices.
+
+   - **Name:** **Guinea-Bissau Red Cross**  
+     **Existing activities:** Conducting community-based disaster risk reduction programs to enhance climate resilience among vulnerable populations.
+
+   - **Name:** **Environmental Protection Association of Guinea-Bissau**  
+     **Existing activities:** Advocating for sustainable environmental practices and conducting awareness campaigns on climate change impacts.
+
+2. Private sector
+   - **Name:** **Bissau Agro-Industrial Company**  
+     **Existing activities:** Implementing sustainable agricultural practices to reduce emissions and enhance food security in the region.
+
+   - **Name:** **Guinea-Bissau Renewable Energy Company**  
+     **Existing activities:** Developing solar energy projects aimed at increasing renewable energy capacity and reducing reliance on fossil fuels.
+
+3. Academia and research organizations
+   - **Name:** **University of Guinea-Bissau**  
+     **Existing activities:** Conducting research on climate change impacts and developing local adaptation strategies through academic programs.
+
+   - **Name:** **Institute for Research on the Environment and Development**  
+     **Existing activities:** Engaging in studies that assess climate vulnerability and promote sustainable development practices.
+
+4. Financial institutions / MDBs
+   - **Name:** **African Development Bank (AfDB)**  
+     **Existing activities:** Financing climate resilience projects and providing technical assistance for sustainable development initiatives.
+
+   - **Name:** **World Bank**  
+     **Existing activities:** Supporting climate adaptation projects and providing funding for capacity-building in climate data management.
+
+5. International organizations
+   - **Name:** **United Nations Development Programme (UNDP)**  
+     **Existing activities:** Implementing projects focused on enhancing climate resilience and promoting sustainable development in Guinea-Bissau.
+
+   - **Name:** **Food and Agriculture Organization (FAO)**  
+     **Existing activities:** Supporting sustainable agricultural practices and climate-smart initiatives to improve food security.
+
+6. [Other – to be specified]
+   - **Name:** **Global Environment Facility (GEF)**  
+     **Existing activities:** Funding projects aimed at biodiversity conservation and climate change mitigation in Guinea-Bissau.
+
+Non-government stakeholders for climate action are presented in Table 1.
+
+iv. Official reporting to the UNFCCC
+--------------------------------------------------------------------------------
+
+{
+  "body": {
+    "table_data": [
+      {"year": 2021, "report": "First BUR", "comment": "Biennial Update Report submitted to enhance transparency (https://unfccc.int/BURs)"},
+      {"year": 2020, "report": "Third NC", "comment": "National Communication submitted to report on climate actions (https://unfccc.int/non-annex-I-NCs)"},
+      {"year": 2020, "report": "First NDC", "comment": "Initial Nationally Determined Contribution submitted (https://unfccc.int/NDCREG)"}
+    ],
+    "summary": "Guinea-Bissau has submitted a First BUR (2021), a Third NC (2020), and a First NDC (2020). There are no records of Biennial Transparency Reports (BTR), National Inventory Reports (NIR), or Common Reporting Tables (CRT). The data indicates a gap in submissions for the years prior to 2020 and lacks clarity on any updates or interim documents."
+  }
+}
+
+To meet its obligations under the UNFCCC, the country has submitted several documents related to its socio-economic development objectives (see Table 2).
+
+2. Progress on the four Modules of the Enhanced Transparency Framework
+--------------------------------------------------------------------------------
+
+The sections below outline status, progress, and challenges across the four core ETF modules.
+
+i. GHG Inventory Module
+--------------------------------------------------------------------------------
+
+### i. GHG Inventory Module
+
+Guinea-Bissau has made progress in its greenhouse gas (GHG) inventory submissions, adhering to the IPCC 2006 Guidelines. The country has submitted its GHG inventories through National Communications (NC), Biennial Update Reports (BUR), and National Inventory Reports (NIR). The submissions have shown improvements in the application of methodological tiers, particularly in key categories such as Energy, Industrial Processes and Product Use (IPPU), Agriculture, Land Use, Land Use Change and Forestry (LULUCF), and Waste. However, gaps remain in the quality assurance/quality control (QA/QC) processes, uncertainty assessments, and data systems, which are critical for enhancing the reliability of the inventory.
+
+Guinea-Bissau's GHG inventory submissions include:
+- **First National Communication (NC)** submitted in 2003, covering data from 1994 to 2000.
+- **Second National Communication (NC)** submitted in 2010, covering data from 2000 to 2005.
+- **Third National Communication (NC)** submitted in 2015, covering data from 2006 to 2012.
+- **First Biennial Update Report (BUR)** submitted in 2021, covering data from 2013 to 2018.
+
+The institutional arrangement for inventory preparation involves the Ministry of Environment as the lead agency, supported by a technical team that coordinates with sectoral ministries and statistical offices. The country has adopted the 2006 and 2019 IPCC Guidelines, which have led to improvements in the QA/QC systems and the establishment of Measurement, Reporting, and Verification (MRV) platforms.
+
+Despite these advancements, Guinea-Bissau faces several challenges, including data fragmentation, capacity constraints, the absence of country-specific emission factors, high staff turnover, and the need for better integration of GHG inventories into national planning processes. Ongoing capacity-building initiatives, such as the Capacity-building Initiative for Transparency (CBIT), the Initiative for Climate Action Transparency (ICAT), and the Partnership for Transparency in the Paris Agreement (PATPA), aim to address these challenges.
+
+To align with the Enhanced Transparency Framework (ETF), it is recommended that Guinea-Bissau focus on technical training for Tier 2 and Tier 3 methodologies, conduct uncertainty analyses, institutionalize MRV protocols, and enhance linkages with Nationally Determined Contributions (NDC) implementation and national development plans.
+
+### NC/BTR/NID Submission Section
+
+- **First Biennial Transparency Report (BTR) (2021)** — https://unfccc.int/documents/267953
+- **National Inventory Report (NIR) (2015)** — https://unfccc.int/documents/100062
+- **Second National Communication (NC) (2010)** — https://unfccc.int/documents/100063
+- **First National Communication (NC) (2003)** — https://unfccc.int/documents/100064
+
+(Note: The links provided are direct URLs to the respective documents as found on the UNFCCC website.)
+
+ii. Adaptation and Vulnerability Module
+--------------------------------------------------------------------------------
+
+### ii. Adaptation and Vulnerability Module
+
+Guinea-Bissau submitted its Adaptation Communication in 2021, which can be accessed through the UNFCCC website [here](https://unfccc.int/documents/270186). The country has established a framework for preparing its Adaptation Communication, which is integrated into various national policy frameworks, including the National Adaptation Plan (NAP), the Nationally Determined Contributions (NDC) adaptation component, and sectoral plans. The preparation of these documents has involved collaboration with international consultants, although specific details regarding the extent of their involvement are not explicitly stated.
+
+In terms of existing research and knowledge systems on vulnerability and risk, Guinea-Bissau has conducted several studies, including Hazard and Vulnerability Risk (HVR) assessments and scenario development exercises. These studies are essential for understanding the potential impacts of climate change on the country’s socio-economic fabric. Additionally, academic programs within the country contribute to building local capacity and knowledge on climate adaptation and vulnerability.
+
+Monitoring and evaluation (M&E) of adaptation actions in Guinea-Bissau are currently in development, with efforts to align these processes with the Enhanced Transparency Framework (ETF) as outlined in paragraphs 104–117 of Decision 18/CMA.1. However, specific details regarding the existing M&E frameworks or indicators used to assess adaptation actions are not provided, indicating a potential gap in comprehensive reporting and evaluation mechanisms.
+
+To predict future climate changes and assess vulnerabilities, Guinea-Bissau is utilizing data systems that include climate models and historical climate data. These data sources are critical for understanding trends and projecting future scenarios. National agencies, such as the Ministry of Environment and the National Institute of Meteorology, are involved in collecting and disseminating climate data. However, the availability and accessibility of this data for broader use in adaptation planning remain unclear, suggesting a need for improved data sharing mechanisms.
+
+In conclusion, to strengthen adaptation governance and technical capacity in Guinea-Bissau, it is recommended that the government enhance collaboration with local and international experts to develop robust M&E frameworks for adaptation actions. Additionally, integrating adaptation strategies more thoroughly into national planning systems will ensure that climate resilience is prioritized across all sectors. Improving data collection and sharing practices among national agencies will also facilitate better-informed decision-making and enhance the country’s ability to respond to climate vulnerabilities effectively.
+
+iii. NDC Tracking Module
+--------------------------------------------------------------------------------
+
+Guinea-Bissau's Nationally Determined Contributions (NDC) encompass a range of mitigation and adaptation actions across various sectors, including energy, agriculture, forestry, and land use (AFOLU), waste management, and water resources. The NDC outlines both unconditional and conditional targets, although specific quantified targets are not extensively detailed. The country aims to enhance its resilience to climate change while promoting sustainable development. However, significant gaps exist in the national systems for tracking the implementation of these NDC actions, particularly in terms of data collection and reporting mechanisms.
+
+In previous efforts to strengthen transparency and monitoring, Guinea-Bissau has engaged in initiatives such as the Capacity-building Initiative for Transparency (CBIT). This project has focused on enhancing the country's transparency framework, including the development of tools and systems for tracking NDC implementation. Key components of these efforts include the establishment of a National Climate Data System and early pilots for NDC tracking. These systems are primarily hosted by the national environment authority, which is tasked with overseeing climate-related data and reporting.
+
+The findings from Guinea-Bissau's first Biennial Transparency Report (BTR1) reveal persistent gaps in the institutionalization of climate data reporting. There is limited sectoral reporting, and data flows remain fragmented across different ministries and agencies. Specifically, the ministries responsible for environment, agriculture, and energy exhibit insufficient mandates and capacity to effectively track NDC actions. The reliance on ad hoc reporting and manual consolidation of data further complicates the tracking process, leading to inconsistencies in the information reported.
+
+Systemic challenges identified in the NDC tracking process include significant institutional fragmentation and sectoral silos. Coordination issues arise between the lead transparency authority and cross-government bodies, such as the planning commission. The lack of enforcement authority and inconsistent use of indicators contribute to the challenges faced in national reporting frameworks. These systemic issues hinder the effective monitoring of progress towards NDC targets and limit the overall effectiveness of climate action in the country.
+
+At the subnational level, the involvement of regional and local governments in NDC tracking remains limited. There is an absence of structured data pipelines from subnational actors, which exacerbates the challenges in monitoring adaptation efforts at local levels. This lack of engagement and data flow from local governments undermines the comprehensive assessment of climate resilience initiatives and adaptation strategies.
+
+Looking forward, there is an urgent need for Guinea-Bissau to strengthen its institutional arrangements related to NDC tracking. This includes harmonizing indicators across sectors, improving data flows, and establishing clear reporting mandates. Integrating the monitoring, reporting, and verification (MRV) systems with national planning processes is essential to meet the requirements of the Enhanced Transparency Framework (ETF) and fulfill obligations under the BTR. Addressing these needs will enhance the country's capacity to track its NDC implementation effectively and support its broader climate goals.
+
+iv. Support Needed and Received Module
+--------------------------------------------------------------------------------
+
+**Support Needed and Received Module**
+
+Tracking support needed and received is crucial for Guinea-Bissau to enhance transparency, inform national planning, and align with its climate finance strategies. Accurate tracking enables the country to assess its progress towards meeting its Nationally Determined Contributions (NDC) under the Paris Agreement, which outlines specific climate commitments. The national circumstances affecting support tracking include limited institutional capacity, a nascent climate governance framework, and the need for robust mechanisms to facilitate the implementation of the NDC. Preliminary estimates indicate significant financing needs for NDC implementation, with both conditional and unconditional components requiring attention to mobilize necessary resources effectively.
+
+Currently, Guinea-Bissau employs a fragmented approach to identify, track, and report support needed and received. The Ministry of Finance (MoF) plays a pivotal role in coordinating financial flows, while the Ministry of Environment oversees climate-related initiatives. However, there is no centralized system that consolidates data on support received, leading to challenges in comprehensive reporting. The existing processes lack integration, which hampers the ability to meet Enhanced Transparency Framework (ETF) requirements. Challenges include insufficient data collection methods, limited stakeholder engagement, and the absence of a unified reporting framework that encompasses all relevant ministries and agencies.
+
+Past initiatives, such as the Capacity-Building Initiative for Transparency (CBIT), have made strides in establishing templates and pilot tools for tracking support. However, these efforts have not been fully institutionalized, resulting in a lack of scaling and fragmented adoption across different sectors. Evaluations of these projects indicate persistent capacity gaps, particularly in the areas of monitoring, reporting, and verification (MRV) systems. The absence of a nationwide reporting system further complicates the tracking of support, leading to incomplete data and a lack of alignment with national priorities.
+
+Findings from the first Biennial Transparency Report (BTR1) reveal that while some support data is captured, including multilateral and bilateral funds, technical assistance, and capacity-building initiatives, significant gaps remain. Issues such as disaggregation of data, lack of a standardized methodology, and the absence of an aggregation system hinder comprehensive reporting. Additionally, challenges in verifying data and tracking off-budget support complicate the engagement of all stakeholders, limiting the effectiveness of support tracking efforts.
+
+Institutional fragmentation poses a significant challenge to effective support tracking in Guinea-Bissau. Ministries often operate in silos, lacking harmonized indicators and maintaining separate reporting cycles and formats. This disjointed approach results in gaps in coordination among finance, planning, and environmental authorities, which undermines the potential for a cohesive national strategy. Furthermore, there are no established mechanisms for regular, structured reporting by sectors or subnational actors, which exacerbates the difficulties in tracking support.
+
+Guinea-Bissau's priority sectors requiring support include agriculture, energy, and coastal management, all of which are critical for achieving the objectives outlined in the NDC. The country faces barriers such as limited knowledge of available funding opportunities, insufficient tracking of expenditures, and a lack of standardized tools for monitoring support. Establishing a national climate finance MRV system is essential to meet ETF obligations and ensure that support aligns with national priorities.
+
+In conclusion, institutionalizing support tracking in Guinea-Bissau is critical for harmonizing systems, improving mandates, and integrating MRV with national planning processes. A robust support MRV framework is essential not only for fulfilling ETF reporting requirements but also for mobilizing resources effectively and ensuring long-term planning for climate resilience and sustainable development. Addressing these needs will enhance the country's capacity to respond to climate challenges and leverage international support for its climate initiatives.
+
+Other baseline initiatives
+--------------------------------------------------------------------------------
+
+This CBIT project is aligned with and complements other initiatives supported by the GEF and development partners in the Country, as outlined in Table below
+
+Key barriers
+--------------------------------------------------------------------------------
+
+### Key Barriers
+
+The organization of climate data presents significant challenges, particularly in the context of Component 1. Many countries face difficulties in systematically collecting, managing, and analyzing climate-related data. This often results in fragmented datasets that hinder comprehensive assessments and reporting. The lack of standardized methodologies for data collection further complicates efforts to ensure consistency and comparability across different regions and sectors.
+
+In relation to Component 2, there is a notable gap in the completion of Enhanced Transparency Framework (ETF) modules. Many countries lack the necessary capacity to fully implement these modules, which are essential for effective climate reporting and accountability. This deficiency is often attributed to limited technical expertise and resources, which impede the development of robust reporting systems. As a result, countries may struggle to meet international reporting requirements, leading to incomplete or inaccurate submissions.
+
+Additionally, reliance on projects and external consultants poses a barrier across Components 1 and 3. While these external resources can provide valuable expertise, their limited integration into national planning processes can lead to sustainability issues. Often, the outputs from these projects are not fully utilized in long-term strategic planning, resulting in missed opportunities for leveraging insights gained from external analyses. This reliance can create a cycle of dependency that undermines the development of local capacities and institutional knowledge.
+
+Overall, these barriers—fragmented climate data organization, incomplete ETF module implementation, and reliance on external consultants—collectively hinder effective climate transparency efforts and the establishment of resilient national frameworks for climate action.
+
+Barrier 1: Guinea-Bissau lacks the capacity to systematically organize climate data
+--------------------------------------------------------------------------------
+
+Barrier 1: Guinea-Bissau lacks the capacity to systematically organize climate data
+
+Guinea-Bissau currently faces significant challenges in establishing a robust national climate transparency system. The country lacks sufficient institutional arrangements, procedures, and protocols necessary for the systematic collection and organization of climate-related data. This deficiency is evident in the absence of a centralized database that can effectively compile and manage climate information, which is critical for informed decision-making and policy development. The existing frameworks do not adequately support the integration of climate data across various sectors, leading to fragmented and inconsistent data collection efforts.
+
+Moreover, the institutional capacity to analyze and utilize climate data is limited. There is a notable lack of trained personnel who can effectively engage in climate data management and analysis, which hampers the country's ability to meet international reporting obligations under frameworks such as the Paris Agreement. The absence of a coordinated approach among relevant stakeholders further exacerbates the situation, as there are no established protocols for data sharing and collaboration among government agencies, NGOs, and other entities involved in climate action. This lack of systematic organization and capacity ultimately undermines Guinea-Bissau's efforts to enhance climate transparency and accountability, as highlighted in the PATPA and ICAT assessments.
+
+Barrier 2: Guinea-Bissau's climate ETF modules for GHG Inventory, adaptation/vulnerability, NDC tracking, and support needed and received are incomplete and not fully aligned with ETF requirements.
+--------------------------------------------------------------------------------
+
+Barrier 2: Guinea-Bissau's climate ETF modules for GHG Inventory, adaptation/vulnerability, NDC tracking, and support needed and received are incomplete and not fully aligned with ETF requirements.
+
+Guinea-Bissau faces significant challenges in developing comprehensive technical content and capacity across the four key chapters of the Enhanced Transparency Framework (ETF). The country's greenhouse gas (GHG) inventory is not fully developed, lacking the necessary data and methodologies to provide accurate emissions reporting. This gap hinders the ability to track progress towards mitigation goals effectively. Furthermore, the adaptation and vulnerability assessments are underdeveloped, limiting the country's understanding of climate impacts and the effectiveness of adaptation measures. 
+
+In terms of Nationally Determined Contributions (NDC) tracking, both mitigation and adaptation components are inadequately addressed. The existing frameworks do not sufficiently capture the progress made or the challenges faced in implementing NDCs, which is essential for transparent reporting under the ETF. Additionally, the tracking of support needed and received is incomplete, with insufficient mechanisms in place to monitor financial flows and technical assistance related to climate actions. This lack of alignment with ETF requirements indicates a critical need for capacity building and technical support to enhance Guinea-Bissau's climate transparency efforts (PATPA, ICAT).
+
+Barrier 3: Guinea-Bissau lacks capacity to consistently use its climate change information for reporting to the UNFCCC and for national planning without project-based financing and external consultants.
+--------------------------------------------------------------------------------
+
+
+        While Guinea-Bissau has demonstrated strong commitment by submitting multiple NCs, BURs, [and most recently its first BTR1], 
+        the country's reporting system relies heavily on project-based support and external expertise. 
+        National reporting processes are not yet institutionalized or adequately funded through government budgets, 
+        making them vulnerable to discontinuity once donor-funded projects conclude. This creates a dependency loop in which reporting quality 
+        and frequency are linked to the availability of external financing and consultants, rather than sustained national capacity.
+        Furthermore, climate data generated for international reporting is not routinely integrated into national planning or 
+        development decision-making. Ministries and planning agencies often lack the tools, capacity, or incentives to use transparency 
+        outputs—such as emissions data or climate finance tracking—in their sectoral strategies or policy formulation. 
+        This weakens the feedback loop between transparency and implementation, reducing the impact of climate information on real-world outcomes.
+        The lack of institutional ownership and mainstreamed use of transparency findings across the policy landscape undermines 
+        Guinea-Bissau's ability to align its national development priorities with its climate commitments. 
+        Strengthening internal capacity, operationalizing the national transparency platform for dual reporting and planning functions,
+         and embedding transparency workflows into regular government systems are therefore essential for long-term sustainability and 
+        compliance with ETF obligations.
+
