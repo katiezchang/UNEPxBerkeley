@@ -576,9 +576,40 @@ Rules:
     ),
 }
 
-# Supabase configuration
-SUPABASE_URL = "https://tulbxwdifnzquliytsog.supabase.co"
-SUPABASE_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1bGJ4d2RpZm56cXVsaXl0c29nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI5OTg0MTAsImV4cCI6MjA3ODU3NDQxMH0.pRnak9Ii7Eqli-o8AEYX0DCyaWOi04OlEhLoynw88wU"
+# Supabase configuration - read from environment variables or .env file
+# DO NOT hardcode credentials in this file
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    # dotenv is optional
+    pass
+
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
+
+# Try to read from SupaBase Info.rtf if environment variables are not set
+if not SUPABASE_URL or not SUPABASE_API_KEY:
+    try:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        rtf_path = os.path.join(script_dir, "SupaBase Info.rtf")
+        if os.path.exists(rtf_path):
+            with open(rtf_path, 'r', encoding='utf-8', errors='ignore') as f:
+                rtf_content = f.read()
+                # Extract URL
+                url_match = re.search(r'Project URL:\s*([^\s\\]+)', rtf_content)
+                if url_match:
+                    SUPABASE_URL = url_match.group(1).strip()
+                # Extract API key
+                key_match = re.search(r'Anon public API KEY:\s*([^\s}]+)', rtf_content)
+                if key_match:
+                    SUPABASE_API_KEY = key_match.group(1).strip()
+    except Exception:
+        pass
+
+if not SUPABASE_URL or not SUPABASE_API_KEY:
+    print("WARNING: Supabase credentials not found. Please set SUPABASE_URL and SUPABASE_API_KEY")
+    print("in environment variables or .env file, or ensure SupaBase Info.rtf exists.")
 
 def validate_openai_api_key(api_key):
     """

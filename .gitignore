@@ -1,0 +1,59 @@
+# Sensitive credentials - NEVER commit these
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*secret*
+*password*
+*credential*
+
+# Configuration files with credentials
+**/SupaBase Info.rtf
+**/supabase_config.json
+**/cookies.json
+**/unfccc_cookies.json
+
+# Generated data files (can be regenerated from scraping or database)
+**/data/
+**/downloads/
+**/output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Backup files
+*.backup
+*.bak
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PDF files (large, can be regenerated)
+*.pdf
+

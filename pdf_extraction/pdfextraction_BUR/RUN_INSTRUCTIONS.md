@@ -17,9 +17,11 @@ The program automatically reads Supabase credentials from `PIF Generator/SupaBas
 
 **Optional:** You can also set environment variables in a `.env` file (takes precedence):
 ```
-SUPABASE_URL=https://tulbxwdifnzquliytsog.supabase.co
-SUPABASE_API_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1bGJ4d2RpZm56cXVsaXl0c29nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI5OTg0MTAsImV4cCI6MjA3ODU3NDQxMH0.pRnak9Ii7Eqli-o8AEYX0DCyaWOi04OlEhLoynw88wU
+SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_API_KEY=your_api_key_here
 ```
+
+**SECURITY NOTE:** Never commit actual API keys to version control. Use environment variables or `.env` files (which should be in `.gitignore`).
 
 ### To Run:
 ```bash
