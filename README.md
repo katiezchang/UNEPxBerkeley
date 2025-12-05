@@ -10,7 +10,7 @@ This repository automates the process of:
 - **Generating** structured PIF sections aligned with GEF-8 templates using AI
 - **Formatting** outputs for official submission
 
-The pipeline is designed to support transparency capacity-building projects by streamlining the creation of comprehensive PIF documents.
+The pipeline is designed to support transparency capacity-building projects by streamlining the creation of comprehensive PIF documents. Designed in preliminary stages, but wanted to highlight prompts created in PIF generation as well as the types of webscraping we performed to download copies of important docs from unfccc.int
 
 ## Repository Structure
 
@@ -71,7 +71,7 @@ The PDF extraction components are responsible for downloading, parsing, and extr
 
 **Features:**
 - Cookie-based authentication to bypass UNFCCC firewall -- need to open website and collect cookie information, update to json to bypass correctly
-- Scrapes UNFCCC reports portal for country-specific documents
+- Scrapes UNFCCC reports portal for country-specific documents using regex (see other section for better incorporation of LLM in scraping)
 - Downloads and parses PDF files (BURs, BTRs, NCs, NDCs)
 - Extracts multiple section types:
   - **Institutional Framework for Climate Action** - National institutions and coordination mechanisms
@@ -163,6 +163,7 @@ python bur_webscraper.py --country "Cuba" "Jordan" "Guinea-Bissau"
   ```
 
 **See `pdfextraction_BUR/README.md` for detailed documentation.**
+One thing to note is this is designed solely for the BUR website to check if this specific document is up to date. Incorporates more AI into the information scraped as well.
 
 #### 3. `pdfextraction_BUR.ipynb`
 
